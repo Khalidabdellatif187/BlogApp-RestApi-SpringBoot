@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: AFAQE
+Build-Jdk: 11.0.14.1
+Implementation-Title: cruddemo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.luv2code.springboot
+Implementation-URL: https://spring.io/projects/spring-boot/cruddemo
+Created-By: Maven Integration for Eclipse
+
